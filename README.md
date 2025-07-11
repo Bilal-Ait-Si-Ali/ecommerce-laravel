@@ -1,2 +1,2 @@
 # ecommerce-laravel
-rojet e-commerce Laravel - École
+Projet e-commerce Laravel
